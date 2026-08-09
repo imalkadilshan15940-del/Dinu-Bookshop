@@ -18,7 +18,9 @@
     "accent": "#d4501a",
     "bg": "#f5f4f0",
     "surface": "#ffffff",
-    "categories": [],
+    "categories": [
+      "Battery"
+    ],
     "license": {
       "key": "eyJsaWNlbnNlZSI6IkRpbnUgc2hvcCIsImV4cGlyeSI6IjIwMjYtMDgtMTIiLCJrZXkiOiJpbWFsa2EiLCJpc3N1ZWQiOiIyMDI2LTA4LTA4In0.BFC7Mx2rA4uQilPbZElcgxf-iSSeCHyBAwuL9iDUHcDTyj6MA9RliMyBz5mc2ec7QrKcSusn-04LFzU-DFqWPQ"
     },
@@ -46,5 +48,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:30:52.190Z"
+  "syncedAt": "2026-08-09T07:31:02.198Z"
 }
