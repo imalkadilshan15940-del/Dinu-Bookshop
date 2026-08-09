@@ -19,7 +19,6 @@
     "bg": "#f5f4f0",
     "surface": "#ffffff",
     "categories": [
-      "Relays",
       "Fuses",
       "Connectors & Lugs",
       "Meters & Testers",
@@ -53,5 +52,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:30:36.279Z"
+  "syncedAt": "2026-08-09T07:30:38.951Z"
 }
