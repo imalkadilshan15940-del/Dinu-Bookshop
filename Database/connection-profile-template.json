@@ -10,7 +10,7 @@
     "email": "",
     "footer": "Thank you for your purchase!",
     "prefix": "INV-",
-    "startNo": 1001,
+    "startNo": 1,
     "currency": "Rs.",
     "reportEmail": "",
     "sysName": "Dinu Stock",
@@ -56,5 +56,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:26:36.073Z"
+  "syncedAt": "2026-08-09T07:26:50.121Z"
 }
