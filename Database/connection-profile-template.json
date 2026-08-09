@@ -43,7 +43,13 @@
       "exportData": true,
       "viewNotes": true
     },
-    "users": []
+    "users": [
+      {
+        "username": "admin",
+        "password": "159402315",
+        "role": "admin"
+      }
+    ]
   },
-  "syncedAt": "2026-08-09T07:17:56.680Z"
+  "syncedAt": "2026-08-09T07:19:54.349Z"
 }
