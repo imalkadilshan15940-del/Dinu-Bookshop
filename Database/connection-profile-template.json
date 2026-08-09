@@ -34,9 +34,10 @@
       "unit": "Pcs",
       "total": 5,
       "used": 0,
-      "min": 5,
+      "min": 10,
       "price": 0,
-      "notes": "Ten"
+      "notes": "Ten",
+      "warranty": 0
     }
   ],
   "history": [],
@@ -97,5 +98,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:48:18.990Z"
+  "syncedAt": "2026-08-09T07:48:45.355Z"
 }
