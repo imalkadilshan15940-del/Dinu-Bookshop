@@ -7,7 +7,7 @@
       "category": "Glue",
       "unit": "pcs",
       "total": 19,
-      "used": 2,
+      "used": 3,
       "min": 10,
       "price": 40,
       "warranty": 0,
@@ -20,7 +20,7 @@
       "category": "Battery",
       "unit": "pcs",
       "total": 6,
-      "used": 2,
+      "used": 3,
       "min": 10,
       "price": 100,
       "warranty": 36,
@@ -33,7 +33,7 @@
       "category": "Pen",
       "unit": "Pcs",
       "total": 5,
-      "used": 1,
+      "used": 2,
       "min": 10,
       "price": 125,
       "notes": "Ten",
@@ -41,6 +41,36 @@
     }
   ],
   "history": [
+    {
+      "id": 7,
+      "itemId": 5,
+      "type": "sale",
+      "qty": 1,
+      "note": "Sold to Walk-in Customer",
+      "receiptNo": "INV-2",
+      "ts": 1786262228461,
+      "by": "admin"
+    },
+    {
+      "id": 6,
+      "itemId": 2,
+      "type": "sale",
+      "qty": 1,
+      "note": "Sold to Walk-in Customer",
+      "receiptNo": "INV-2",
+      "ts": 1786262228461,
+      "by": "admin"
+    },
+    {
+      "id": 5,
+      "itemId": 1,
+      "type": "sale",
+      "qty": 1,
+      "note": "Sold to Walk-in Customer",
+      "receiptNo": "INV-2",
+      "ts": 1786262228461,
+      "by": "admin"
+    },
     {
       "id": 4,
       "itemId": 5,
@@ -82,6 +112,51 @@
     }
   ],
   "sales": [
+    {
+      "id": 2,
+      "receiptNo": "INV-2",
+      "ts": 1786262228461,
+      "customer": {
+        "name": "Walk-in Customer",
+        "phone": ""
+      },
+      "payMethod": "Cash",
+      "note": "",
+      "items": [
+        {
+          "id": 1,
+          "name": "Glu-liquid-20ml",
+          "sku": "Glu-liq-20ML",
+          "unit": "pcs",
+          "price": 40,
+          "qty": 1,
+          "warranty": 0
+        },
+        {
+          "id": 2,
+          "name": "Battery-2A",
+          "sku": "BT-2A",
+          "unit": "pcs",
+          "price": 100,
+          "qty": 1,
+          "warranty": 36
+        },
+        {
+          "id": 5,
+          "name": "Pen-Color-Ten",
+          "sku": "Pen-Cl-10",
+          "unit": "Pcs",
+          "price": 125,
+          "qty": 1,
+          "warranty": 0
+        }
+      ],
+      "subtotal": 265,
+      "discAmt": 0,
+      "discType": "pct",
+      "discVal": 0,
+      "total": 265
+    },
     {
       "id": 1,
       "receiptNo": "INV-1",
@@ -184,5 +259,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:52:13.385Z"
+  "syncedAt": "2026-08-09T07:57:08.461Z"
 }
