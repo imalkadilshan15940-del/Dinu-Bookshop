@@ -19,7 +19,6 @@
     "bg": "#f5f4f0",
     "surface": "#ffffff",
     "categories": [
-      "Conduits & Fittings",
       "Transformers",
       "LEDs & Bulbs",
       "Capacitors",
@@ -57,5 +56,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:30:20.999Z"
+  "syncedAt": "2026-08-09T07:30:25.575Z"
 }
