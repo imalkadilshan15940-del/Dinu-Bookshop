@@ -27,18 +27,6 @@
       "notes": "KODAK"
     },
     {
-      "id": 3,
-      "name": "Glu-liquid-20ml",
-      "sku": "Glu-liq-20ML",
-      "category": "Glue",
-      "unit": "pcs",
-      "total": 19,
-      "used": 0,
-      "min": 5,
-      "price": 0,
-      "notes": "Atlas"
-    },
-    {
       "id": 5,
       "name": "Pen-Color-Ten",
       "sku": "Pen-Cl-10",
@@ -109,5 +97,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:48:04.606Z"
+  "syncedAt": "2026-08-09T07:48:18.990Z"
 }
