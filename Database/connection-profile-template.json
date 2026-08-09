@@ -19,7 +19,6 @@
     "bg": "#f5f4f0",
     "surface": "#ffffff",
     "categories": [
-      "Connectors & Lugs",
       "Meters & Testers",
       "Distribution Boards",
       "Other"
@@ -51,5 +50,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:30:41.271Z"
+  "syncedAt": "2026-08-09T07:30:43.846Z"
 }
