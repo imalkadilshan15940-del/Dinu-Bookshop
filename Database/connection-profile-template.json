@@ -25,6 +25,42 @@
       "price": 100,
       "warranty": 36,
       "notes": "KODAK"
+    },
+    {
+      "id": 3,
+      "name": "Glu-liquid-20ml",
+      "sku": "Glu-liq-20ML",
+      "category": "Glue",
+      "unit": "pcs",
+      "total": 19,
+      "used": 0,
+      "min": 5,
+      "price": 0,
+      "notes": "Atlas"
+    },
+    {
+      "id": 4,
+      "name": "Battery-2A",
+      "sku": "BT-2A",
+      "category": "Battery",
+      "unit": "pcs",
+      "total": 6,
+      "used": 0,
+      "min": 5,
+      "price": 0,
+      "notes": "KODAK"
+    },
+    {
+      "id": 5,
+      "name": "Pen-Color-Ten",
+      "sku": "Pen-Cl-10",
+      "category": "Pen",
+      "unit": "Pcs",
+      "total": 5,
+      "used": 0,
+      "min": 5,
+      "price": 0,
+      "notes": "Ten"
     }
   ],
   "history": [],
@@ -85,5 +121,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:43:08.079Z"
+  "syncedAt": "2026-08-09T07:47:34.399Z"
 }
