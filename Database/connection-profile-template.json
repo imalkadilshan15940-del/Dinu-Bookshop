@@ -251,8 +251,13 @@
         "username": "dinu",
         "password": "1989",
         "role": "admin"
+      },
+      {
+        "username": "dinu2",
+        "password": "1989",
+        "role": "user"
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:59:52.373Z"
+  "syncedAt": "2026-08-09T08:00:01.763Z"
 }
