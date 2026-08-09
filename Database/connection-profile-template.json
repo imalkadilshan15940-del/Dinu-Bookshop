@@ -23,7 +23,8 @@
       "Book",
       "Pen",
       "Pencile",
-      "Eraser"
+      "Eraser",
+      "Glue"
     ],
     "license": {
       "key": "eyJsaWNlbnNlZSI6IkRpbnUgc2hvcCIsImV4cGlyeSI6IjIwMjYtMDgtMTIiLCJrZXkiOiJpbWFsa2EiLCJpc3N1ZWQiOiIyMDI2LTA4LTA4In0.BFC7Mx2rA4uQilPbZElcgxf-iSSeCHyBAwuL9iDUHcDTyj6MA9RliMyBz5mc2ec7QrKcSusn-04LFzU-DFqWPQ"
@@ -52,5 +53,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:31:28.502Z"
+  "syncedAt": "2026-08-09T07:32:00.629Z"
 }
