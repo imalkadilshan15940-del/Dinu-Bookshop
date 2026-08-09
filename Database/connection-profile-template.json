@@ -1,0 +1,35 @@
+{
+  "_instructions": [
+    "This is a template — not used directly by the app. Copy this file,",
+    "fill in the real values below, delete this '_instructions' section,",
+    "and give the copy to a new user.",
+    "It never contains a username or password. Each new user always",
+    "creates their own admin account (if the data file is empty) or",
+    "logs in with an account you've created for them separately.",
+    "",
+    "To load it: on the very first screen of the app, click",
+    "'Load connection profile (.json)' and select your filled-in copy.",
+    "",
+    "mode: either \"github\" or \"local\" — delete whichever section",
+    "(github/local) you are not using.",
+    "",
+    "github.token is optional and usually best left OUT — the new",
+    "user pastes in their own personal access token instead. Only",
+    "include a token here if you specifically intend this file to be",
+    "usable by one trusted person, since anyone with the file gets",
+    "that token's access."
+  ],
+
+  "mode": "github",
+
+  "github": {
+    "owner": "your-github-username",
+    "repo": "your-repo-name",
+    "path": "Database/electro_stock_data.json",
+    "branch": "main"
+  },
+
+  "local": {
+    "data_file": "C:\\path\\to\\your\\data.json"
+  }
+}
