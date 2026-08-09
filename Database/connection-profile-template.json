@@ -35,7 +35,7 @@
       "total": 5,
       "used": 0,
       "min": 10,
-      "price": 0,
+      "price": 125,
       "notes": "Ten",
       "warranty": 0
     }
@@ -108,5 +108,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:49:42.002Z"
+  "syncedAt": "2026-08-09T07:51:56.154Z"
 }
