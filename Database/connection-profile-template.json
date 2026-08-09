@@ -19,7 +19,6 @@
     "bg": "#f5f4f0",
     "surface": "#ffffff",
     "categories": [
-      "Switches",
       "Sockets & Outlets",
       "Conduits & Fittings",
       "Transformers",
@@ -59,5 +58,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:30:13.287Z"
+  "syncedAt": "2026-08-09T07:30:16.928Z"
 }
