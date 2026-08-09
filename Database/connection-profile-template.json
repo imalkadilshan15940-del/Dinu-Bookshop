@@ -20,7 +20,7 @@
       "category": "Battery",
       "unit": "pcs",
       "total": 6,
-      "used": 0,
+      "used": 1,
       "min": 10,
       "price": 100,
       "warranty": 36,
@@ -40,7 +40,17 @@
       "warranty": 0
     }
   ],
-  "history": [],
+  "history": [
+    {
+      "id": 1,
+      "itemId": 2,
+      "type": "damage",
+      "qty": 1,
+      "note": "broke",
+      "ts": 1786261782002,
+      "by": "admin"
+    }
+  ],
   "sales": [],
   "settings": {
     "shopName": "HYDI'S BOOK HEVEN",
@@ -98,5 +108,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:48:45.355Z"
+  "syncedAt": "2026-08-09T07:49:42.002Z"
 }
