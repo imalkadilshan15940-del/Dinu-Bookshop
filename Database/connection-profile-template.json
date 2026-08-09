@@ -39,18 +39,6 @@
       "notes": "Atlas"
     },
     {
-      "id": 4,
-      "name": "Battery-2A",
-      "sku": "BT-2A",
-      "category": "Battery",
-      "unit": "pcs",
-      "total": 6,
-      "used": 0,
-      "min": 5,
-      "price": 0,
-      "notes": "KODAK"
-    },
-    {
       "id": 5,
       "name": "Pen-Color-Ten",
       "sku": "Pen-Cl-10",
@@ -121,5 +109,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:47:34.399Z"
+  "syncedAt": "2026-08-09T07:48:04.606Z"
 }
