@@ -19,7 +19,6 @@
     "bg": "#f5f4f0",
     "surface": "#ffffff",
     "categories": [
-      "Capacitors",
       "Relays",
       "Fuses",
       "Connectors & Lugs",
@@ -54,5 +53,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:30:32.904Z"
+  "syncedAt": "2026-08-09T07:30:36.279Z"
 }
