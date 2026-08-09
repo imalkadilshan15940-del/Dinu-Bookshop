@@ -19,7 +19,6 @@
     "bg": "#f5f4f0",
     "surface": "#ffffff",
     "categories": [
-      "Sockets & Outlets",
       "Conduits & Fittings",
       "Transformers",
       "LEDs & Bulbs",
@@ -58,5 +57,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-09T07:30:16.928Z"
+  "syncedAt": "2026-08-09T07:30:20.999Z"
 }
