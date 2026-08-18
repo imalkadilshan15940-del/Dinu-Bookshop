@@ -1,0 +1,49 @@
+{
+  "items": [],
+  "history": [],
+  "sales": [],
+  "settings": {
+    "shopName": "My shop",
+    "addr1": "No. 1, Main Street",
+    "addr2": "Colombo",
+    "phone": "011 000 0000",
+    "email": "",
+    "footer": "Thank you for your purchase!",
+    "prefix": "INV-",
+    "startNo": 1001,
+    "currency": "Rs.",
+    "reportEmail": "",
+    "sysName": "Dinu Stock",
+    "logoData": "",
+    "accent": "#d4501a",
+    "bg": "#f5f4f0",
+    "surface": "#ffffff",
+    "categories": [
+      "Breakers",
+      "Cables & Wires",
+      "Switches",
+      "Sockets & Outlets",
+      "Conduits & Fittings",
+      "Transformers",
+      "LEDs & Bulbs",
+      "Capacitors",
+      "Relays",
+      "Fuses",
+      "Connectors & Lugs",
+      "Meters & Testers",
+      "Distribution Boards",
+      "Other"
+    ],
+    "license": {
+      "key": "eyJsaWNlbnNlZSI6IkRpbnUiLCJleHBpcnkiOiIyMDI2LTA4LTIwIiwia2V5IjoiaW1hIiwiaXNzdWVkIjoiMjAyNi0wOC0xOCJ9.PwCQTwe0X1AZc7YLBHo89yILy-VWgu-mNIKX6pytak0aZAyH2HuXTMn3gJvqJ8Nl0vhLZlXnedumB5dbyRrYxA"
+    },
+    "permissions": {
+      "reportDamage": true,
+      "viewPrice": true,
+      "exportData": true,
+      "viewNotes": true
+    },
+    "users": []
+  },
+  "syncedAt": "2026-08-18T04:59:07.309Z"
+}
