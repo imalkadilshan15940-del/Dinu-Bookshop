@@ -35,7 +35,7 @@
       "Other"
     ],
     "license": {
-      "key": "eyJsaWNlbnNlZSI6IkRpbnUiLCJleHBpcnkiOiIyMDI2LTA4LTIwIiwia2V5IjoiaW1hIiwiaXNzdWVkIjoiMjAyNi0wOC0xOCJ9.PwCQTwe0X1AZc7YLBHo89yILy-VWgu-mNIKX6pytak0aZAyH2HuXTMn3gJvqJ8Nl0vhLZlXnedumB5dbyRrYxA"
+      "key": "eyJsaWNlbnNlZSI6IkRpbnUiLCJleHBpcnkiOiIyMDI2LTA4LTI1Iiwia2V5IjoiaW1hbGthIiwiaXNzdWVkIjoiMjAyNi0wOC0yMiJ9.isHf_i1qXEsc_9m2xMsmQUY6UPStuugVFGFM52nvy-v2rein2Ut2yUYDwRP3e5TwPp77xzmOqrmiFcQ03bwrmg"
     },
     "permissions": {
       "reportDamage": true,
@@ -51,5 +51,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-18T04:59:57.149Z"
+  "syncedAt": "2026-08-22T17:51:55.118Z"
 }
