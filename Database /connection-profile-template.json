@@ -124,36 +124,7 @@
       "by": "admin"
     }
   ],
-  "sales": [
-    {
-      "id": 3,
-      "receiptNo": "INV-3",
-      "ts": 1787419077805,
-      "customer": {
-        "name": "Walk-in Customer",
-        "phone": ""
-      },
-      "payMethod": "Cash",
-      "note": "",
-      "items": [
-        {
-          "id": 1,
-          "name": "Glu-liquid-20ml",
-          "sku": "Glu-liq-20ML",
-          "unit": "pcs",
-          "price": 50,
-          "cost": 40,
-          "qty": 1,
-          "warranty": 0
-        }
-      ],
-      "subtotal": 50,
-      "discAmt": 0,
-      "discType": "pct",
-      "discVal": 0,
-      "total": 50
-    }
-  ],
+  "sales": [],
   "settings": {
     "shopName": "HYDI'S BOOK HEVEN",
     "addr1": "No. 666/C/2",
@@ -210,5 +181,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-22T17:20:16.750Z"
+  "syncedAt": "2026-08-22T17:20:19.097Z"
 }
