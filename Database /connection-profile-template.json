@@ -7,7 +7,7 @@
       "category": "Glue",
       "unit": "pcs",
       "total": 19,
-      "used": 3,
+      "used": 4,
       "min": 10,
       "price": 40,
       "warranty": 0,
@@ -44,6 +44,16 @@
     }
   ],
   "history": [
+    {
+      "id": 8,
+      "itemId": 1,
+      "type": "sale",
+      "qty": 1,
+      "note": "Sold to Walk-in Customer",
+      "receiptNo": "INV-3",
+      "ts": 1787419077805,
+      "by": "admin"
+    },
     {
       "id": 7,
       "itemId": 5,
@@ -115,6 +125,34 @@
     }
   ],
   "sales": [
+    {
+      "id": 3,
+      "receiptNo": "INV-3",
+      "ts": 1787419077805,
+      "customer": {
+        "name": "Walk-in Customer",
+        "phone": ""
+      },
+      "payMethod": "Cash",
+      "note": "",
+      "items": [
+        {
+          "id": 1,
+          "name": "Glu-liquid-20ml",
+          "sku": "Glu-liq-20ML",
+          "unit": "pcs",
+          "price": 50,
+          "cost": 40,
+          "qty": 1,
+          "warranty": 0
+        }
+      ],
+      "subtotal": 50,
+      "discAmt": 0,
+      "discType": "pct",
+      "discVal": 0,
+      "total": 50
+    },
     {
       "id": 2,
       "receiptNo": "INV-2",
@@ -262,5 +300,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-22T17:17:50.288Z"
+  "syncedAt": "2026-08-22T17:17:57.805Z"
 }
