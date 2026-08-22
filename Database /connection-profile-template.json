@@ -11,7 +11,8 @@
       "min": 10,
       "price": 40,
       "warranty": 0,
-      "notes": "Atlas"
+      "notes": "Atlas",
+      "sellPrice": 50
     },
     {
       "id": 2,
@@ -260,5 +261,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-22T17:17:29.849Z"
+  "syncedAt": "2026-08-22T17:17:39.912Z"
 }
