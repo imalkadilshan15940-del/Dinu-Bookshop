@@ -197,51 +197,6 @@
       "discType": "pct",
       "discVal": 0,
       "total": 265
-    },
-    {
-      "id": 1,
-      "receiptNo": "INV-1",
-      "ts": 1786261933384,
-      "customer": {
-        "name": "imalka",
-        "phone": "0717177330"
-      },
-      "payMethod": "Cash",
-      "note": "",
-      "items": [
-        {
-          "id": 1,
-          "name": "Glu-liquid-20ml",
-          "sku": "Glu-liq-20ML",
-          "unit": "pcs",
-          "price": 40,
-          "qty": 2,
-          "warranty": 0
-        },
-        {
-          "id": 2,
-          "name": "Battery-2A",
-          "sku": "BT-2A",
-          "unit": "pcs",
-          "price": 100,
-          "qty": 1,
-          "warranty": 36
-        },
-        {
-          "id": 5,
-          "name": "Pen-Color-Ten",
-          "sku": "Pen-Cl-10",
-          "unit": "Pcs",
-          "price": 125,
-          "qty": 1,
-          "warranty": 0
-        }
-      ],
-      "subtotal": 305,
-      "discAmt": 0,
-      "discType": "pct",
-      "discVal": 0,
-      "total": 305
     }
   ],
   "settings": {
@@ -300,5 +255,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-22T17:17:57.805Z"
+  "syncedAt": "2026-08-22T17:20:14.600Z"
 }
