@@ -39,7 +39,8 @@
       "min": 10,
       "price": 125,
       "notes": "Ten",
-      "warranty": 0
+      "warranty": 0,
+      "sellPrice": 150
     }
   ],
   "history": [
@@ -261,5 +262,5 @@
       }
     ]
   },
-  "syncedAt": "2026-08-22T17:17:39.912Z"
+  "syncedAt": "2026-08-22T17:17:50.288Z"
 }
